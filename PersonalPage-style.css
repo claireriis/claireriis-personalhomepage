@@ -1,12 +1,23 @@
-h1{color:MediumPurple;
+body{
+  background-color:Plum;
+}
+
+
+h1{color:White;
 text-align:center;
   font-family: 
-
 }
+
+button{
+  text-align:center;
+}
+a:hover{text-color:white;}
+a:visited{text-color:blue;}
+
 .insta{display:block;
 border:2px;
 padding:30px;
-text-align:center;}
+}
 
 .port{display:block;
   border:2px;
