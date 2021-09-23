@@ -1,4 +1,17 @@
-h1{color:blue;
+h1{color:MediumPurple;
 text-align:center;
+  font-family: 
 
 }
+.insta{display:block;
+border:2px;
+padding:30px;
+text-align:center;}
+
+.port{display:block;
+  border:2px;
+padding:30px;}
+
+.twitter{display:block;
+  border:2px;
+padding:30px;
