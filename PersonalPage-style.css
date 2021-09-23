@@ -1,28 +1,38 @@
 body{
-  background-color:Plum;
+  background-color:Lavender;
 }
 
 
 h1{color:White;
 text-align:center;
-  font-family: 
+  font-family:'Rock Salt';
+   font-size:60px; 
+  display:block;
 }
 
 button{
   text-align:center;
+  width:100%;
+  height:120px;
 }
+
+a{font-size: 28px;
+font-family:'Georgia';}
+
 a:hover{text-color:white;}
 a:visited{text-color:blue;}
 
+
 .insta{display:block;
-border:2px;
+border:px;
 padding:30px;
+
 }
 
 .port{display:block;
-  border:2px;
+  border:px;
 padding:30px;}
 
 .twitter{display:block;
-  border:2px;
+  border:px;
 padding:30px;
