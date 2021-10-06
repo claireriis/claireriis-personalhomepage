@@ -1,6 +1,6 @@
 body {
   background-color: #BDDEF4;
-  background-image: url("https://cdn.glitch.com/d210b967-7c55-43fd-b17b-3ce4c8311e6c%2FLittleDudeWithBG.svg?v=1632961615524");
+  background-image: url("https://cdn.glitch.me/d210b967-7c55-43fd-b17b-3ce4c8311e6c%2FLittleDudeWithBG.svg?v=1633533009124");
   background-size: cover;
   background-position: left center;
   height: 100vh;
@@ -20,7 +20,7 @@ h2 {
   font-size: 40px;
   color: #7D87C9;
   font-family: "Baloo Da 2";
-    margin-top: 0;
+  margin-top: 0;
 }
 
 h3 {
@@ -29,7 +29,6 @@ h3 {
   font-size: 30px;
   font-family: "Baloo Da 2";
   font-weight: bold;
-
 }
 
 a {
@@ -45,7 +44,7 @@ a:hover {
   color: white;
 }
 
-main{
+main {
   position: absolute;
   right: 360px;
 }
